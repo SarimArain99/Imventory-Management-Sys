@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Input from "./Input";
 import Select from "./Select";
-import Button from "./button";
+import Button from "./Button";
 
 function FormInputs({
   setExpenses,
